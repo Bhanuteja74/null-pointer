@@ -23,9 +23,9 @@ Building the smallest usable version of Quick Paste.
 
 ### TODO
 - [x] Initialize Git repo with `.gitignore` for Xcode/macOS.  
-- [ ] Clean up boilerplate (remove default `ContentView`).  
-- [ ] Add `AppDelegate` → set up menu bar status item.  
-- [ ] Show simple menu bar icon.  
+- [x] Clean up boilerplate (remove default `ContentView`).  
+- [x] Add `AppDelegate` → set up menu bar status item.  
+- [x] Show simple menu bar icon.  
 - [ ] Listen to clipboard text changes (`NSPasteboard`).  
 - [ ] Keep last 10 entries in memory buffer.  
 - [ ] Register global hotkeys (`⌥⌃1..9`).  
